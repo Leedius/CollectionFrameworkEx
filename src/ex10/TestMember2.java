@@ -1,2 +1,4 @@
-package ex10;public class TestMember2 {
+package ex10;
+
+public class TestMember2 {
 }

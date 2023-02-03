@@ -1,10 +1,18 @@
 package ex9;
 
-public class Stuident1 {
+public class Student1 {
     private String StudentName;
     private int KorScore;
     private int engScore;
     private int totalScore;
+
+
+    public Student1(String studentName, int korScore, int engScore) {
+        StudentName = studentName;
+        KorScore = korScore;
+        this.engScore = engScore;
+        this.totalScore = korScore+engScore;
+    }
 
     //각 멤버변수에 대한 getter setter생성
     public String getStudentName() {
