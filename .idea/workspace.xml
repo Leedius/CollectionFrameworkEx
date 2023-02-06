@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f960f98-cd10-41b4-9635-440e0914ea39" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exList2/EmpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList2/EmpServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/SchoolManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/SchoolManeger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/SchoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3다른풀이/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3다른풀이/SchoolManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3다른풀이/SchoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3다른풀이/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exList3다른풀이/StudentClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex10/Member1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex10/Member1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex10/Member1Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex10/Member1Manage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex10/Member2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex10/TestMember2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex10/TestMember2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex5_8/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5_8/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex5_8/TestMember1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5_8/TestMember1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex9/TestStudent1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex9/TestStudent1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3/SchoolManeger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3/SchoolManeger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3다른풀이/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3다른풀이/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3다른풀이/SchoolManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3다른풀이/SchoolManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3다른풀이/SchoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3다른풀이/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3다른풀이/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exList3다른풀이/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exList3다른풀이/StudentClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/dev/workspace/CollectionFrameworkEx/src/exList3다른풀이"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/workspace/CollectionFrameworkEx/src/exList3다른풀이&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\dev\workspace\CollectionFrameworkEx\src\exList3다른풀이" />
@@ -84,6 +70,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first update" />

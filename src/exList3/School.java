@@ -20,7 +20,7 @@ public class School {
         String className = sc.next();
         System.out.print("선생이름 : ");
         String homeroomTeacher = sc.next();
-        StudentClass classList = new StudentClass(stuList, className, homeroomTeacher);
+        StudentClass classList = new StudentClass(this.class2.getStuList(), className, homeroomTeacher);
 
     }
 

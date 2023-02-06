@@ -13,15 +13,7 @@ public class School  {
         classList = new ArrayList<>();
     }
 
-    private StudentClass getclass(){
-        System.out.print("반이름 : ");
-        String className = sc.next();
-        System.out.print("담임교사 : ");
-        String homeroomTeacher = sc.next();
 
-        StudentClass class1 = new StudentClass(className, homeroomTeacher);
-        return class1;
-    }
 
     public void addClass(){
 

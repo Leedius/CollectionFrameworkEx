@@ -1,5 +1,8 @@
 package exList3다른풀이;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Student {
     private String name;
     private int age;
@@ -65,4 +68,20 @@ public class Student {
                 ", score=" + score +
                 '}';
     }
+
+    //c1이라는 학급에 들어갈 학생 객체 3개 생성
+    Student s1 = new Student("김길동", 20,"서울시", 90);
+    Student s2 = new Student("이길동", 30,"울산시", 80);
+    Student s3 = new Student("박길동", 40,"부산시", 88);
+
+    List<Student> stulist1 = new ArrayList<>();
+        stulist1.add(s1);
+        stulist1.add(s2);
+        stulist1.add(s3);
+
+
+
+
 }
+
+
