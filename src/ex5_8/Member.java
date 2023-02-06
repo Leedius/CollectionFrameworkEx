@@ -55,6 +55,6 @@ public class Member {
                 ", Password='" + Password + '\'' +
                 ", name='" + name + '\'' +
                 ", age=" + age +
-                '}';
+                "}\n";
     }
 }
