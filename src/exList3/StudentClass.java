@@ -23,25 +23,17 @@ public class StudentClass {
 
 
 
-
-    public Student getStudent(){
-        System.out.print("학생이름 : ");
-        String name = sc.next();
-        System.out.print("학생나이 : ");
-        int age = sc.nextInt();
-        System.out.print("학생주소 : ");
-        String location = sc.next();
-        System.out.print("학생점수 : ");
-        int score = sc.nextInt();
-        Student student = new Student(name, age, location, score);
-        stuList.add(student);
-        return student;
-
+    public Student highScoreStudent(){
+        int highScore = 0;
+        int studentIndex = 0;
+        for(int i = 0; i < stuList.size(); i++){
+            if(highScore<stuList.get(i).getScore()){
+                highScore = stuList.get(i).getScore();
+                studentIndex = i;
+            }
+        }
+        return stuList.get(studentIndex);
     }
-
-
-
-
 
     public void setClassName(String className) {
         this.className = className;

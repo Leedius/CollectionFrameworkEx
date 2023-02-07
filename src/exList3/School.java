@@ -11,27 +11,34 @@ public class School {
     StudentClass class2 = new StudentClass();
 
     public School(){
-        classList = new ArrayList<>();
-    }
-
-    public void getClass1(){
-        Student student = class2.getStudent();
-        System.out.print("학급이름 : ");
-        String className = sc.next();
-        System.out.print("선생이름 : ");
-        String homeroomTeacher = sc.next();
-        StudentClass classList = new StudentClass(this.class2.getStuList(), className, homeroomTeacher);
 
     }
 
-
-
-    public void setClassList(List<StudentClass> classList){
+    public School(List<StudentClass> classList) {
         this.classList = classList;
     }
 
-    public List<StudentClass> getClassList(){
+    public List<StudentClass> getClassList() {
         return classList;
     }
 
+    public void setClassList(List<StudentClass> classList) {
+        this.classList = classList;
+    }
+
+    public void showClassStudentInfo(String className) {
+        for (int i = 0; i < classList.getClass().getStuList().; i++) {
+            stuList.get(i);
+        }
+    }
+
+    public double classAvgScore(String className){
+        int classScoreSum = 0;
+        for(int i = 0; i < stuList.size(); i++) {
+            classScoreSum += stuList.get(i).getScore();
+        }
+        return (double)classScoreSum/stuList.size();
+    }
 }
+
+

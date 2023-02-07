@@ -76,10 +76,7 @@ public class SchoolManager {
         //school이라는 학교의 모든 학급명을 출력
         for(int i = 0; i < school.getClassList().size(); i++){
             System.out.println(school.getClassList().get(i).getClassName());
-
-    }
-
-
+        }
 
 
     }
